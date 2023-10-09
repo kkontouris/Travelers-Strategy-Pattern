@@ -1,0 +1,15 @@
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\bin\Debug\net6.0\StrategyPatternTravel.exe
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\bin\Debug\net6.0\StrategyPatternTravel.deps.json
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\bin\Debug\net6.0\StrategyPatternTravel.runtimeconfig.json
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\bin\Debug\net6.0\StrategyPatternTravel.dll
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\bin\Debug\net6.0\StrategyPatternTravel.pdb
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.csproj.AssemblyReference.cache
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.GeneratedMSBuildEditorConfig.editorconfig
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.AssemblyInfoInputs.cache
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.AssemblyInfo.cs
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.csproj.CoreCompileInputs.cache
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.dll
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\refint\StrategyPatternTravel.dll
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.pdb
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\StrategyPatternTravel.genruntimeconfig.cache
+D:\προγραμματισμός\c#\StrategyPatternTravel\StrategyPatternTravel\obj\Debug\net6.0\ref\StrategyPatternTravel.dll
